@@ -1,2 +1,4 @@
 n case of AVG in GROUP BY, the value of the average can be a float. What is to be done in this scenario?
 [AP]: Round it off to nearest integer.
+
+ksdksk
