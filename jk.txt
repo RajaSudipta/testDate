@@ -4,3 +4,4 @@ n case of AVG in GROUP BY, the value of the average can be a float. What is to b
 ksdksk
 dssfdsd
 aadsdsdsd
+new addition
